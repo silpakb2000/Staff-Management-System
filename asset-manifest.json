@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/staff-roster-app/static/css/main.0888c029.css",
+    "main.js": "/staff-roster-app/static/js/main.22b29717.js",
+    "static/js/453.06dc3ea7.chunk.js": "/staff-roster-app/static/js/453.06dc3ea7.chunk.js",
+    "index.html": "/staff-roster-app/index.html",
+    "main.0888c029.css.map": "/staff-roster-app/static/css/main.0888c029.css.map",
+    "main.22b29717.js.map": "/staff-roster-app/static/js/main.22b29717.js.map",
+    "453.06dc3ea7.chunk.js.map": "/staff-roster-app/static/js/453.06dc3ea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0888c029.css",
+    "static/js/main.22b29717.js"
+  ]
+}
