@@ -1,3 +1,35 @@
+# Staff Management System
+
+A full-stack Staff Roster Dashboard application built with **ReactJS** (frontend) and **FastAPI** (backend), designed to manage weekly shift schedules efficiently using Excel integration.
+
+## 🚀 Features
+
+- 🗓️ Gantt chart for weekly staff scheduling
+- 📊 KPI cards and visual charts
+- 🔐 Login/Logout system with session tracking
+- 📥 Excel file integration for shift data
+- 📧 Notification system (email/console logs)
+- 📁 LocalStorage support for frontend persistence
+- 🎨 Responsive UI built with Tailwind CSS
+
+## 🛠️ Tech Stack
+
+- Frontend: ReactJS, Tailwind CSS, Chart.js
+- Backend: FastAPI, SQLite
+- Data Source: Excel (Pandas)
+- Deployment: GitHub
+
+## 📸 Screenshots
+
+![Screenshot 2025-07-03 110518](https://github.com/user-attachments/assets/92dd3faa-cd29-4cdf-a403-fa74129ece8e)
+
+![Screenshot 2025-07-03 110526](https://github.com/user-attachments/assets/375bcb2c-2600-49ea-8411-b2e1cdd56ecf)
+
+![Screenshot 2025-07-03 110535](https://github.com/user-attachments/assets/9326d56c-e7b8-49aa-9e8e-d5e400170812)
+
+
+## 📂 Folder Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
